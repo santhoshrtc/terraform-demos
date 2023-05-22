@@ -13,4 +13,3 @@ resource "aws_instance" "myvm1" {
  Application = "CRM"
  }
 }
-
